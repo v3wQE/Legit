@@ -1,3 +1,4 @@
+
 local hotkey = "t" -- toggle key
 local mouse = game.Players.LocalPlayer:GetMouse()
 
